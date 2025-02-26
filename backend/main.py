@@ -67,7 +67,7 @@ def greet():
 
 @app.route('/')
 def home():
-    return "¡Hola, mundoOO!"
+    return "<h1>¡Hola, mundoOO, python, ruta principal!</h1>"
 
 if __name__ == '__main__':
     app.run(debug=True)
