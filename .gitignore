@@ -1,0 +1,29 @@
+# Dependencies
+**/node_modules/
+**/venv/
+**/__pycache__/
+
+# Frontend
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.env*
+frontend/.vercel
+frontend/*.tsbuildinfo
+frontend/next-env.d.ts
+
+# Backend
+backend/__pycache__/
+backend/venv/
+backend/*.pyc
+
+# Database
+database/data/
+
+# Docs
+docs/build/
+
+# General
+.DS_Store
+*.pem
+.env*
