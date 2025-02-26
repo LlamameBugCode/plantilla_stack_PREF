@@ -1,8 +1,6 @@
-¡Claro! Un archivo `README.md` es esencial para cualquier proyecto en GitHub, ya que proporciona una descripción clara de lo que hace tu proyecto, cómo configurarlo y cómo usarlo. A continuación, te proporciono una plantilla profesional y bien estructurada que puedes adaptar a tu proyecto.
-
----
-
 # PREF Stack Template
+
+By: [Isaac Correa](https://github.com/LlamameBugCode/)
 
 ![GitHub](https://img.shields.io/github/license/yourusername/your-repo-name) ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/your-repo-name)
 
@@ -106,7 +104,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/LlamameBugCode/plantilla_stack_PREF.git
 cd tu-repositorio
 ```
 
