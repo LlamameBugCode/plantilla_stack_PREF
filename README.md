@@ -105,7 +105,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
 
 ```bash
 git clone https://github.com/LlamameBugCode/plantilla_stack_PREF.git
-cd tu-repositorio
+
 ```
 
 ### 2. Configurar el backend
